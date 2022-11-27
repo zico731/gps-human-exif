@@ -1,5 +1,5 @@
 #!/bin/bash
-# Cré&teur : zico731
+# Créateur : zico731
 # Date 27/11/2022
 # Comment voir exactement où une photo a été prise grâce aux metadonnées EXIF
 
