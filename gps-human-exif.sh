@@ -1,3 +1,7 @@
+#!/bin/bash
+# Cré&teur : zico731
+# Date 27/11/2022
+# Comment voir exactement où une photo a été prise grâce aux metadonnées EXIF
 
 photo=$1
 [[ -z $1 ]] && (echo  -e "\n usage : ${0##*/} <photo_path>\n";exit 1)
